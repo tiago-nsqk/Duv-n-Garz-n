@@ -1,4 +1,4 @@
-# Hola, soy tu Duván - Tiago 👋
+# Hola, soy Duván - Tiago 👋
 
 Soy estudiante, enfocado en aprender de la programacion y reforzas los temas de los cuales tengo conocimientos basicos.
 
