@@ -1,30 +1,20 @@
-# Hola, soy tu nombre 👋
+# Hola, soy tu Duván - Tiago 👋
 
-Soy [tu profesión o área], enfocado en [tu especialidad].
+Soy estudiante, enfocado en aprender de la programacion y reforzas los temas de los cuales tengo conocimientos basicos.
 
 ## Sobre mí
-- Estudiante / desarrollador / diseñador / analista.
-- Intereses: [tecnologías o áreas].
-- Objetivo profesional: [breve objetivo].
+- soy estudiante del colegio union colombia, del grado 10°.
+- Intereses: matematicas, programacion y diseño mecanico.
+- Objetivo profesional: mi objetivo es estudiar en el Sena y despues ir a alguna universidad.
 
 ## Habilidades
-- Lenguajes: HTML, CSS, JavaScript, Python
-- Herramientas: Git, GitHub, VS Code
-- Tecnologías: React, Node.js, MySQL
+- Lenguajes: HTML, CSS, JavaScript, Python (conocimientos basicos)
+- Herramientas: VS Code.
 
 ## Proyectos destacados
-- Proyecto 1: breve descripción.
-- Proyecto 2: breve descripción.
-- Proyecto 3: breve descripción.
-
-## Experiencia
-- Cargo o proyecto — empresa / institución.
-- Qué hiciste y qué lograste.
-
-## Educación
-- Carrera o curso — institución.
+- Proyecto 1: Soy constructor del equipo Uctikray, competidor de la FLL.
 
 ## Contacto
-- Email: tucorreo@gmail.com
+- Email: Nesquik3883m@gmail.com
 - LinkedIn: tu enlace
 - GitHub: tu enlace
