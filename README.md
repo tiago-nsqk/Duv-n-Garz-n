@@ -16,5 +16,4 @@ Soy estudiante, enfocado en aprender de la programacion y reforzas los temas de 
 
 ## Contacto
 - Email: Nesquik3883m@gmail.com
-- LinkedIn: tu enlace
-- GitHub: tu enlace
+- telefono: 3165164598
